@@ -16,6 +16,8 @@ I am interested in data analytics, data visualization, and solving real-world pr
 
 ---
 <img width="1536" height="1024" alt="8a77954e-801a-4990-98e8-cf4ee405725e" src="https://github.com/user-attachments/assets/9d0bc423-9998-4bc6-91cb-2bfbd80ca52e" />
+
+
 ---
 ## Featured Projects
 
